@@ -5,7 +5,7 @@
  * version 0.1.9
  */
 
-const CLASS_OF_MAIN_CONTENTS = '.area_view';
+const CLASS_OF_MAIN_CONTENTS = '.entry-content';
 
 const CONSTANTS = (function () {
   const KEY_OF_H1 = 1;
